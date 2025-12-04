@@ -1,0 +1,21 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Виртуальное окружение
+.env
+venv/
+.venv/
+
+# Кэш и временные файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE / редакторы
+.vscode/
+.idea/
+
+# Системные файлы
+.DS_Store
+Thumbs.db

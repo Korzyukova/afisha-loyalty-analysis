@@ -1,0 +1,8 @@
+pandas
+numpy
+sqlalchemy
+matplotlib
+seaborn
+phik
+python-dotenv
+jupyter
